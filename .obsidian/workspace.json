@@ -170,6 +170,7 @@
   },
   "active": "b8a02dca441981aa",
   "lastOpenFiles": [
+    "setup_git.sh",
     "controllers/__pycache__/low_privilege_controller.cpython-312.pyc",
     "agents/__pycache__/low_privilege_agent.cpython-312.pyc",
     "controllers/__pycache__/icmp_shell.cpython-312.pyc",
